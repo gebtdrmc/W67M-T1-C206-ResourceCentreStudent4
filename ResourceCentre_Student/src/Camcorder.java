@@ -12,6 +12,7 @@ public class Camcorder extends Item{
 		this.opticalZoom = opticalZoom;
 	}
 //test merge
+	
 	public int getOpticalZoom() {
 		return opticalZoom;
 	}
