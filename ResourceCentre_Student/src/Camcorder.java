@@ -1,4 +1,5 @@
-//comment 26/7/2020
+//comment 26/7/2020 
+//changed in GitHub
 public class Camcorder extends Item{
 	private int opticalZoom;
 
