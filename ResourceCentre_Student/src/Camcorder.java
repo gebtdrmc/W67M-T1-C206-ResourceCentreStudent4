@@ -1,5 +1,6 @@
 //comment 26/7/2020 
 //changed in GitHub
+//conflict Changed in Git
 public class Camcorder extends Item{
 	private int opticalZoom;
 
