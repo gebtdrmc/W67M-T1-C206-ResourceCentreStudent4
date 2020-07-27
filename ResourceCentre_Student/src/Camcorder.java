@@ -13,6 +13,7 @@ public class Camcorder extends Item{
 	}
 //test merge change local
 //test merge change github
+	//
 	
 	public int getOpticalZoom() {
 		return opticalZoom;
