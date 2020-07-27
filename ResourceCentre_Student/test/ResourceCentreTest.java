@@ -46,7 +46,7 @@ public class ResourceCentreTest {
 		
 		//The item just added is as same as the first item of the list
 		assertSame("Test that Camcorder is added same as 1st item of the list?", cc1, camcorderList.get(0));
-//TKH		
+//TKH//		
 		//Add another item. test The size of the list is 2?
 		ResourceCentre.addCamcorder(camcorderList, cc2);
 		assertEquals("Test that Camcorder arraylist size is 2?", 2, camcorderList.size());
